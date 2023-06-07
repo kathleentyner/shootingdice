@@ -1,0 +1,15 @@
+C:\Users\kathl\workspace\csharp\ShootingDice\obj\Debug\net7.0\ShootingDice.csproj.AssemblyReference.cache
+C:\Users\kathl\workspace\csharp\ShootingDice\obj\Debug\net7.0\ShootingDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathl\workspace\csharp\ShootingDice\obj\Debug\net7.0\ShootingDice.AssemblyInfoInputs.cache
+C:\Users\kathl\workspace\csharp\ShootingDice\obj\Debug\net7.0\ShootingDice.AssemblyInfo.cs
+C:\Users\kathl\workspace\csharp\ShootingDice\obj\Debug\net7.0\ShootingDice.csproj.CoreCompileInputs.cache
+C:\Users\kathl\workspace\csharp\ShootingDice\bin\Debug\net7.0\ShootingDice.exe
+C:\Users\kathl\workspace\csharp\ShootingDice\bin\Debug\net7.0\ShootingDice.deps.json
+C:\Users\kathl\workspace\csharp\ShootingDice\bin\Debug\net7.0\ShootingDice.runtimeconfig.json
+C:\Users\kathl\workspace\csharp\ShootingDice\bin\Debug\net7.0\ShootingDice.dll
+C:\Users\kathl\workspace\csharp\ShootingDice\bin\Debug\net7.0\ShootingDice.pdb
+C:\Users\kathl\workspace\csharp\ShootingDice\obj\Debug\net7.0\ShootingDice.dll
+C:\Users\kathl\workspace\csharp\ShootingDice\obj\Debug\net7.0\refint\ShootingDice.dll
+C:\Users\kathl\workspace\csharp\ShootingDice\obj\Debug\net7.0\ShootingDice.pdb
+C:\Users\kathl\workspace\csharp\ShootingDice\obj\Debug\net7.0\ShootingDice.genruntimeconfig.cache
+C:\Users\kathl\workspace\csharp\ShootingDice\obj\Debug\net7.0\ref\ShootingDice.dll
